@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016.11.11 16:22:17.510.pas,C:\Users\KLMN\Documents\RAD Studio\Projects\Unit1.pas=G:\Disk_D\CODING\Delphi_App\My_Delphi_Programms\TimeScale\Unit1.pas</Transaction>
+    <Transaction>2016.11.11 16:22:17.510.dfm,C:\Users\KLMN\Documents\RAD Studio\Projects\Unit1.dfm=G:\Disk_D\CODING\Delphi_App\My_Delphi_Programms\TimeScale\Unit1.dfm</Transaction>
+    <Transaction>2016.11.11 16:22:20.266.dproj,C:\Users\KLMN\Documents\RAD Studio\Projects\Project1.dproj=G:\Disk_D\CODING\Delphi_App\My_Delphi_Programms\TimeScale\TimeScale.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
